@@ -1,4 +1,4 @@
-import { createClient } from '/@supabase/supabase-js'
+import { createClient } from '@supabase/supabase-js'
 
 // URL do seu projeto no Supabase e a chave anônima
 const supabaseUrl = 'https://jmgnfszrutyomlfhklkc.supabase.co'
